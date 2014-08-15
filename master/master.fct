@@ -1,0 +1,10 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"master.c" LINE:44
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:14 FILE:"C:\cvavr2\lib\stdio.lib" LINE:1410
+_print DSTACK_USAGE:20 DSTACK_LEVEL:34 FILE:"C:\cvavr2\lib\stdio.lib" LINE:503
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:36 FILE:"C:\cvavr2\lib\string.lib" LINE:1707
+twi_isr DSTACK_USAGE:12 DSTACK_LEVEL:48 FILE:"master.c" LINE:35
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:51 FILE:"C:\cvavr2\lib\alcd.lib" LINE:243
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:52 FILE:"C:\cvavr2\lib\alcd.lib" LINE:229
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:54 FILE:"C:\cvavr2\lib\alcd.lib" LINE:211
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:55 FILE:"C:\cvavr2\lib\alcd.lib" LINE:147
+_lcd_write_nibble DSTACK_USAGE:1 DSTACK_LEVEL:56 FILE:"C:\cvavr2\lib\alcd.lib" LINE:132
